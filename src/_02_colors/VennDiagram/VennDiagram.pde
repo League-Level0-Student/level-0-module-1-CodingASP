@@ -1,1 +1,14 @@
 size(600,600);
+fill(255, 0, 0, 100);
+ellipse(200, 200, 400, 400);
+fill(0, 0, 255, 100);
+ellipse(300, 375, 400, 400);
+fill(0, 255, 0, 100);
+ellipse(400, 200, 400, 400);
+fill(0, 0, 0, 100);
+textSize(60);
+text("Joyful", 10, 200);
+textSize(40);
+text("Outdoorist", 390, 200);
+textSize(50);
+text("Advocate", 200, 500);
